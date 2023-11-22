@@ -3,7 +3,7 @@ import numpy as np
 from PIL import Image
 
 # Load the image
-image_path = r"C:\Users\User\Downloads\6.jpg"
+image_path = "0.jpg"
 img = cv2.imread(image_path)
 
 # Convert to grayscale
